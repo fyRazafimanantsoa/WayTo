@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WayTo</string>
+    <string name="title_activity_main">WayTo</string>
+    <!-- Strings related to Roadmap -->
+    <string name="welcome_title">Welcome to WayTo</string>
+    <string name="welcome_subtitle">Build your project roadmap</string>
+    <string name="project_description_hint">Describe your project goals and ideas here...</string>
+    <string name="generate_roadmap">Generate Roadmap</string>
+    <string name="dashboard_title">Your Roadmap Dashboard</string>
+    <string name="step_title">Step %d: %s</string>
+    <string name="step_description">Description: %s</string>
+    <string name="step_explanation">Why: %s</string>
+    <string name="step_tips">Tips: %s</string>
+    <string name="mark_complete">Mark Complete</string>
+    <string name="mark_incomplete">Mark Incomplete</string>
+    <string name="back_to_dashboard">Back to Dashboard</string>
+    <string name="add_new_project">Create New Project</string>
+</resources>
